@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+background-color:tomato;
+}
+header{ 
+background-color: blue;padding: 10px; margin: 10px;
+}
+.link-header{
+    color: yellow;
+    background-color:green;
+}
+.link-nav{background-color: yellow;padding: 5px;text-decoration:none;}
+nav{display: flex; justify-content: center;}
